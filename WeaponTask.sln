@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponTask", "WeaponTask\WeaponTask.csproj", "{31D64055-01A3-4D5F-B332-2E32A1EFC104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponTaskHelper", "WeaponTaskHelper\WeaponTaskHelper.csproj", "{F75DA82B-31EB-4D7E-8E43-2545E98F152A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D64055-01A3-4D5F-B332-2E32A1EFC104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D64055-01A3-4D5F-B332-2E32A1EFC104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D64055-01A3-4D5F-B332-2E32A1EFC104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D64055-01A3-4D5F-B332-2E32A1EFC104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75DA82B-31EB-4D7E-8E43-2545E98F152A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75DA82B-31EB-4D7E-8E43-2545E98F152A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75DA82B-31EB-4D7E-8E43-2545E98F152A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75DA82B-31EB-4D7E-8E43-2545E98F152A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC6B121-A5DC-4A12-A752-C059F2539C07}
+	EndGlobalSection
+EndGlobal
